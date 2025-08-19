@@ -1,16 +1,13 @@
-# login_page
+# Flutter Internship Tasks - Login Page
 
-A new Flutter project.
+This is a simple **Flutter Login Page project** created as part of my internship tasks.
 
-## Getting Started
+## Features
+- Email and Password input fields
+- Basic UI with validation
+- Navigation from Login Page to Home Screen
+- Flutter form usage
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## How to Run
+1. Clone this repository:
+   git clone https://github.com/sulimankhan643/flutter_internship_tasks.git
