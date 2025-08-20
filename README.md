@@ -19,3 +19,11 @@ Home Screen:
 ## How to Run
 1. Clone this repository:
    git clone https://github.com/sulimankhan643/flutter_internship_tasks.git
+
+Internship
+Internship: DevelopersHub Corporation
+
+Author
+Name: Suliman Khan
+DHC : 16
+Flutter developer
